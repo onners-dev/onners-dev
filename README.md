@@ -43,14 +43,13 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 ---
 
-## Currently Exploring
-- Backend architecture and distributed systems  
-- Go
-- Videography
+## Currently Learning
+- Trying to become a better backend dev
+- Go and microservices!
+- Videography, new types of filming
 
 ---
 
-## Contact
 ## Contact
 - YouTube: [@onnersss](https://www.youtube.com/@onnersss)  
 - LinkedIn: [Onni-Petteri Rantanen](https://www.linkedin.com/in/onni-petteri-rantanen-994958199/)  
