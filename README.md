@@ -66,5 +66,3 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 - Location: Helsinki, Finland  
 
 ---
-
-> "Code is the bridge between imagination and reality."
