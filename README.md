@@ -1,6 +1,6 @@
 # Onni-Petteri Rantanen
 
-I'm a software engineer based in Helsinki. I’m 22 years old and passionate about building efficient, modern software systems.  
+I'm a software engineer based in Helsinki. I’m 22 years old and passionate about building and learning.  
 In my free time, I create YouTube videos about my life.
 
 [Visit my YouTube channel](https://www.youtube.com/@onnersss)
