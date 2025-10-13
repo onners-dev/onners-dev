@@ -23,9 +23,10 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 ## Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Latest YouTube Videos](https://ytcards.demolab.com/?channelid=UCqgZYZ_MGdkm5sMsZf7mwUA&theme=default&show_border=false&title_color=000000&background_color=f5f5f5&max_title_lines=1&width=400&height=225&count=3)](https://www.youtube.com/channel/UCqgZYZ_MGdkm5sMsZf7mwUA)
-<!-- END YOUTUBE-CARDS -->
+<!-- YOUTUBE-VIDEOS-START -->
+<!-- Placeholder — the GitHub Action will replace this block with your 3 latest videos. -->
+No videos fetched yet. The auto-update action will populate this section.
+<!-- YOUTUBE-VIDEOS-END -->
 
 ---
 
