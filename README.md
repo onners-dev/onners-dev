@@ -21,6 +21,14 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 ---
 
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,typescript,react,nextjs,postgres,docker,python,aws" alt="Tech Stack" />
+</p>
+
+---
+
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-START -->
@@ -51,8 +59,8 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 ---
 
 ## Contact
-- YouTube: [@onnersss](https://www.youtube.com/@onnersss)  
-- LinkedIn: [Onni-Petteri Rantanen](https://www.linkedin.com/in/onni-petteri-rantanen-994958199/)  
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@onnersss)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onni-petteri-rantanen-994958199/)
 - Location: Helsinki, Finland  
 
 ---
