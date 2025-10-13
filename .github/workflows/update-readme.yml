@@ -41,6 +41,7 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git add README.md
             git commit -m "ci: update README with latest YouTube videos"
+            git pull --rebase origin $(echo "${GITHUB_REF#refs/heads/}")
             git push origin HEAD:$(echo "${GITHUB_REF#refs/heads/}")
           else
             echo "No changes to commit"
