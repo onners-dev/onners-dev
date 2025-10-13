@@ -59,8 +59,10 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 ---
 
 ## Contact
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@onnersss)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onni-petteri-rantanen-994958199/)
+- YouTube: [@onnersss](https://www.youtube.com/@onnersss)  
+- LinkedIn: [Onni-Petteri Rantanen](https://www.linkedin.com/in/onni-petteri-rantanen-994958199/)  
+- Discord: `.onni.`  
+- Email: [onnerrs@gmail.com](mailto:onnerrs@gmail.com)  
 - Location: Helsinki, Finland  
 
 ---
