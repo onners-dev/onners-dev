@@ -32,6 +32,14 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-START -->
+<a href="https://www.youtube.com/watch?v=JrBlrS1OitU" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.ytimg.com/vi/JrBlrS1OitU/hqdefault.jpg" alt="MacBook Pro Setup for Programming | Unboxing & First Impressions" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+</a>
+
+**[MacBook Pro Setup for Programming | Unboxing & First Impressions](https://www.youtube.com/watch?v=JrBlrS1OitU)**  
+2025-10-19
+
+
 <a href="https://www.youtube.com/watch?v=d5D556IQnFw" target="_blank" rel="noopener noreferrer">
   <img src="https://i.ytimg.com/vi/d5D556IQnFw/hqdefault.jpg" alt="Are Smart Rings Worth It in 2025? (Oura Ring 4 Review)" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
