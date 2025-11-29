@@ -32,6 +32,14 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-START -->
+<a href="https://www.youtube.com/watch?v=fmt29z8FvaE" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.ytimg.com/vi/fmt29z8FvaE/hqdefault.jpg" alt="My Simple Everyday Carry as a Software Engineer | Daily EDC for Programming" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+</a>
+
+**[My Simple Everyday Carry as a Software Engineer | Daily EDC for Programming](https://www.youtube.com/watch?v=fmt29z8FvaE)**  
+2025-11-29
+
+
 <a href="https://www.youtube.com/watch?v=aQ1xV8kckFk" target="_blank" rel="noopener noreferrer">
   <img src="https://i.ytimg.com/vi/aQ1xV8kckFk/hqdefault.jpg" alt="What I’m Doing to Land a Software Engineering Job in 2025" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
@@ -46,14 +54,6 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 **[Day in the Life of a Software Engineer | Calm & Productive WFH Birthday 🎂](https://www.youtube.com/watch?v=Pm7VaFzg-ys)**  
 2025-10-29
-
-
-<a href="https://www.youtube.com/watch?v=JrBlrS1OitU" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/JrBlrS1OitU/hqdefault.jpg" alt="MacBook Pro Setup for Programming | Unboxing & First Impressions" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
-</a>
-
-**[MacBook Pro Setup for Programming | Unboxing & First Impressions](https://www.youtube.com/watch?v=JrBlrS1OitU)**  
-2025-10-19
 
 <!-- YOUTUBE-VIDEOS-END -->
 
