@@ -33,10 +33,10 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 <!-- YOUTUBE-VIDEOS-START -->
 <a href="https://www.youtube.com/watch?v=fmt29z8FvaE" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/fmt29z8FvaE/hqdefault.jpg" alt="My Simple Everyday Carry as a Software Engineer | Daily EDC for Programming" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+  <img src="https://i.ytimg.com/vi/fmt29z8FvaE/hqdefault.jpg" alt="My Tech Essentials as a Software Engineer | Everday Carry for Programming and Productivity" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
 
-**[My Simple Everyday Carry as a Software Engineer | Daily EDC for Programming](https://www.youtube.com/watch?v=fmt29z8FvaE)**  
+**[My Tech Essentials as a Software Engineer | Everday Carry for Programming and Productivity](https://www.youtube.com/watch?v=fmt29z8FvaE)**  
 2025-11-29
 
 
