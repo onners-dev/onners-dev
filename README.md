@@ -32,6 +32,14 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-START -->
+<a href="https://www.youtube.com/watch?v=baAkcUvHCXI" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.ytimg.com/vi/baAkcUvHCXI/hqdefault.jpg" alt="Week In The Life Of a Software Engineer | NYC Travel, Job Interviews & Routine" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+</a>
+
+**[Week In The Life Of a Software Engineer | NYC Travel, Job Interviews & Routine](https://www.youtube.com/watch?v=baAkcUvHCXI)**  
+2025-12-17
+
+
 <a href="https://www.youtube.com/watch?v=fmt29z8FvaE" target="_blank" rel="noopener noreferrer">
   <img src="https://i.ytimg.com/vi/fmt29z8FvaE/hqdefault.jpg" alt="My Tech Essentials as a Software Engineer | Everday Carry for Programming and Productivity" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
@@ -46,14 +54,6 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 **[What I’m Doing to Land a Software Engineering Job in 2025](https://www.youtube.com/watch?v=aQ1xV8kckFk)**  
 2025-11-16
-
-
-<a href="https://www.youtube.com/watch?v=Pm7VaFzg-ys" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/Pm7VaFzg-ys/hqdefault.jpg" alt="Day in the Life of a Software Engineer | Calm & Productive WFH Birthday 🎂" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
-</a>
-
-**[Day in the Life of a Software Engineer | Calm & Productive WFH Birthday 🎂](https://www.youtube.com/watch?v=Pm7VaFzg-ys)**  
-2025-10-29
 
 <!-- YOUTUBE-VIDEOS-END -->
 
