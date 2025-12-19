@@ -33,10 +33,10 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 <!-- YOUTUBE-VIDEOS-START -->
 <a href="https://www.youtube.com/watch?v=baAkcUvHCXI" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/baAkcUvHCXI/hqdefault.jpg" alt="Week In The Life Of a Software Engineer | NYC Travel, Job Interviews & Routine" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+  <img src="https://i.ytimg.com/vi/baAkcUvHCXI/hqdefault.jpg" alt="Week In My Life Of a Software Engineer | Work, Traveling to New York City & Job Interviews" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
 
-**[Week In The Life Of a Software Engineer | NYC Travel, Job Interviews & Routine](https://www.youtube.com/watch?v=baAkcUvHCXI)**  
+**[Week In My Life Of a Software Engineer | Work, Traveling to New York City & Job Interviews](https://www.youtube.com/watch?v=baAkcUvHCXI)**  
 2025-12-17
 
 
