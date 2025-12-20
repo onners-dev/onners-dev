@@ -33,18 +33,18 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 <!-- YOUTUBE-VIDEOS-START -->
 <a href="https://www.youtube.com/watch?v=baAkcUvHCXI" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/baAkcUvHCXI/hqdefault.jpg" alt="Week In My Life Of a Software Engineer | Work, Traveling to New York City & Job Interviews" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+  <img src="https://i.ytimg.com/vi/baAkcUvHCXI/hqdefault.jpg" alt="A Week in My Life as a Software Engineer (Job Interviews & NYC Trip)" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
 
-**[Week In My Life Of a Software Engineer | Work, Traveling to New York City & Job Interviews](https://www.youtube.com/watch?v=baAkcUvHCXI)**  
+**[A Week in My Life as a Software Engineer (Job Interviews & NYC Trip)](https://www.youtube.com/watch?v=baAkcUvHCXI)**  
 2025-12-17
 
 
 <a href="https://www.youtube.com/watch?v=fmt29z8FvaE" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/fmt29z8FvaE/hqdefault.jpg" alt="My Tech Essentials as a Software Engineer | Everday Carry for Programming and Productivity" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+  <img src="https://i.ytimg.com/vi/fmt29z8FvaE/hqdefault.jpg" alt="My Tech Essentials as a Software Engineer (Everyday Carry)" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
 
-**[My Tech Essentials as a Software Engineer | Everday Carry for Programming and Productivity](https://www.youtube.com/watch?v=fmt29z8FvaE)**  
+**[My Tech Essentials as a Software Engineer (Everyday Carry)](https://www.youtube.com/watch?v=fmt29z8FvaE)**  
 2025-11-29
 
 
