@@ -32,11 +32,19 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-START -->
-<a href="https://www.youtube.com/watch?v=baAkcUvHCXI" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/baAkcUvHCXI/hqdefault.jpg" alt="How I Managed Job Interviews, Packing & NYC Travel | Week in The Life" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+<a href="https://www.youtube.com/watch?v=5OUX4lln0Kc" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.ytimg.com/vi/5OUX4lln0Kc/hqdefault.jpg" alt="My First Time in New York City..." width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
 
-**[How I Managed Job Interviews, Packing & NYC Travel | Week in The Life](https://www.youtube.com/watch?v=baAkcUvHCXI)**  
+**[My First Time in New York City...](https://www.youtube.com/watch?v=5OUX4lln0Kc)**  
+2025-12-31
+
+
+<a href="https://www.youtube.com/watch?v=baAkcUvHCXI" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.ytimg.com/vi/baAkcUvHCXI/hqdefault.jpg" alt="Balancing Work, Job Interviews & NYC Travel | Week in The Life As a Software Engineer" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+</a>
+
+**[Balancing Work, Job Interviews & NYC Travel | Week in The Life As a Software Engineer](https://www.youtube.com/watch?v=baAkcUvHCXI)**  
 2025-12-17
 
 
@@ -46,14 +54,6 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 **[My Tech Essentials as a Software Engineer (Everyday Carry)](https://www.youtube.com/watch?v=fmt29z8FvaE)**  
 2025-11-29
-
-
-<a href="https://www.youtube.com/watch?v=aQ1xV8kckFk" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/aQ1xV8kckFk/hqdefault.jpg" alt="What I’m Doing to Land a Software Engineering Job in 2025" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
-</a>
-
-**[What I’m Doing to Land a Software Engineering Job in 2025](https://www.youtube.com/watch?v=aQ1xV8kckFk)**  
-2025-11-16
 
 <!-- YOUTUBE-VIDEOS-END -->
 
