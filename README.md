@@ -32,6 +32,14 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-START -->
+<a href="https://www.youtube.com/watch?v=yrihK_Zm3QQ" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.ytimg.com/vi/yrihK_Zm3QQ/hqdefault.jpg" alt="Landing a Software Engineering Job in 2026 | Salary, Interviews & Applications" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+</a>
+
+**[Landing a Software Engineering Job in 2026 | Salary, Interviews & Applications](https://www.youtube.com/watch?v=yrihK_Zm3QQ)**  
+2026-01-23
+
+
 <a href="https://www.youtube.com/watch?v=5OUX4lln0Kc" target="_blank" rel="noopener noreferrer">
   <img src="https://i.ytimg.com/vi/5OUX4lln0Kc/hqdefault.jpg" alt="My First Time in New York City..." width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
@@ -46,14 +54,6 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 **[Balancing Work, Job Interviews & NYC Travel | Week in The Life As a Software Engineer](https://www.youtube.com/watch?v=baAkcUvHCXI)**  
 2025-12-17
-
-
-<a href="https://www.youtube.com/watch?v=fmt29z8FvaE" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/fmt29z8FvaE/hqdefault.jpg" alt="My Tech Essentials as a Software Engineer (Everyday Carry)" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
-</a>
-
-**[My Tech Essentials as a Software Engineer (Everyday Carry)](https://www.youtube.com/watch?v=fmt29z8FvaE)**  
-2025-11-29
 
 <!-- YOUTUBE-VIDEOS-END -->
 
