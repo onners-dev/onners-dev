@@ -33,10 +33,10 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 <!-- YOUTUBE-VIDEOS-START -->
 <a href="https://www.youtube.com/watch?v=yrihK_Zm3QQ" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/yrihK_Zm3QQ/hqdefault.jpg" alt="Landing a Software Engineering Job in 2026 | Salary, Interviews & Applications" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+  <img src="https://i.ytimg.com/vi/yrihK_Zm3QQ/hqdefault.jpg" alt="How I Got a Software Engineering Job in 2026 | Salary, Interviews & Applications" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
 
-**[Landing a Software Engineering Job in 2026 | Salary, Interviews & Applications](https://www.youtube.com/watch?v=yrihK_Zm3QQ)**  
+**[How I Got a Software Engineering Job in 2026 | Salary, Interviews & Applications](https://www.youtube.com/watch?v=yrihK_Zm3QQ)**  
 2026-01-23
 
 
