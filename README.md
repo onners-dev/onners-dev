@@ -32,6 +32,14 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-START -->
+<a href="https://www.youtube.com/watch?v=tO-E2bHnmPc" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.ytimg.com/vi/tO-E2bHnmPc/hqdefault.jpg" alt="Moving Into My Dream Apartment at 22 | Living Alone" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+</a>
+
+**[Moving Into My Dream Apartment at 22 | Living Alone](https://www.youtube.com/watch?v=tO-E2bHnmPc)**  
+2026-02-09
+
+
 <a href="https://www.youtube.com/watch?v=yrihK_Zm3QQ" target="_blank" rel="noopener noreferrer">
   <img src="https://i.ytimg.com/vi/yrihK_Zm3QQ/hqdefault.jpg" alt="How I Got a Software Engineering Job in 2026 | Salary, Interviews & Applications" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
@@ -46,14 +54,6 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 **[My First Time in New York City...](https://www.youtube.com/watch?v=5OUX4lln0Kc)**  
 2025-12-31
-
-
-<a href="https://www.youtube.com/watch?v=baAkcUvHCXI" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/baAkcUvHCXI/hqdefault.jpg" alt="Balancing Work, Job Interviews & NYC Travel | Week in The Life As a Software Engineer" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
-</a>
-
-**[Balancing Work, Job Interviews & NYC Travel | Week in The Life As a Software Engineer](https://www.youtube.com/watch?v=baAkcUvHCXI)**  
-2025-12-17
 
 <!-- YOUTUBE-VIDEOS-END -->
 
