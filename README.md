@@ -32,6 +32,14 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-START -->
+<a href="https://www.youtube.com/watch?v=Xuvlm1G_03E" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.ytimg.com/vi/Xuvlm1G_03E/hqdefault.jpg" alt="The Ultimate MacBook Monitor for Programming & Productivity? | LG Ultrafine 6K 32" Monitor Review" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+</a>
+
+**[The Ultimate MacBook Monitor for Programming & Productivity? | LG Ultrafine 6K 32" Monitor Review](https://www.youtube.com/watch?v=Xuvlm1G_03E)**  
+2026-03-22
+
+
 <a href="https://www.youtube.com/watch?v=tO-E2bHnmPc" target="_blank" rel="noopener noreferrer">
   <img src="https://i.ytimg.com/vi/tO-E2bHnmPc/hqdefault.jpg" alt="Moving Into My Dream Apartment at 22 | Living Alone" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
@@ -46,14 +54,6 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 **[How I Landed a Software Engineering Job in 2026](https://www.youtube.com/watch?v=yrihK_Zm3QQ)**  
 2026-01-23
-
-
-<a href="https://www.youtube.com/watch?v=5OUX4lln0Kc" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/5OUX4lln0Kc/hqdefault.jpg" alt="My First Time in New York City..." width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
-</a>
-
-**[My First Time in New York City...](https://www.youtube.com/watch?v=5OUX4lln0Kc)**  
-2025-12-31
 
 <!-- YOUTUBE-VIDEOS-END -->
 
