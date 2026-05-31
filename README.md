@@ -32,6 +32,14 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-START -->
+<a href="https://www.youtube.com/watch?v=uiWfygB74Co" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.ytimg.com/vi/uiWfygB74Co/hqdefault.jpg" alt="Week in the Life as a Software Engineer | Work & Setup Upgrades" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+</a>
+
+**[Week in the Life as a Software Engineer | Work & Setup Upgrades](https://www.youtube.com/watch?v=uiWfygB74Co)**  
+2026-05-30
+
+
 <a href="https://www.youtube.com/watch?v=H3vMPVEQ2gg" target="_blank" rel="noopener noreferrer">
   <img src="https://i.ytimg.com/vi/H3vMPVEQ2gg/hqdefault.jpg" alt="Realistic Day as a Software Engineer | Healthy & Productive Habits" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
@@ -46,14 +54,6 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 **[The Ultimate MacBook Monitor for Programming & Productivity? | LG Ultrafine 6K 32" Monitor Review](https://www.youtube.com/watch?v=Xuvlm1G_03E)**  
 2026-03-22
-
-
-<a href="https://www.youtube.com/watch?v=tO-E2bHnmPc" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/tO-E2bHnmPc/hqdefault.jpg" alt="Moving Into My Dream Apartment at 22 | Living Alone" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
-</a>
-
-**[Moving Into My Dream Apartment at 22 | Living Alone](https://www.youtube.com/watch?v=tO-E2bHnmPc)**  
-2026-02-09
 
 <!-- YOUTUBE-VIDEOS-END -->
 
