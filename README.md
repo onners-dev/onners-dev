@@ -32,6 +32,14 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-START -->
+<a href="https://www.youtube.com/watch?v=brgyL0_ABKs" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.ytimg.com/vi/brgyL0_ABKs/hqdefault.jpg" alt="MacBook Pro Long Term Review | Day in My Life as a Software Engineer" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+</a>
+
+**[MacBook Pro Long Term Review | Day in My Life as a Software Engineer](https://www.youtube.com/watch?v=brgyL0_ABKs)**  
+2026-07-15
+
+
 <a href="https://www.youtube.com/watch?v=uiWfygB74Co" target="_blank" rel="noopener noreferrer">
   <img src="https://i.ytimg.com/vi/uiWfygB74Co/hqdefault.jpg" alt="Week in the Life as a Software Engineer | Work & Setup Upgrades" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
@@ -46,14 +54,6 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 **[Realistic Day as a Software Engineer | Healthy & Productive Habits](https://www.youtube.com/watch?v=H3vMPVEQ2gg)**  
 2026-04-24
-
-
-<a href="https://www.youtube.com/watch?v=Xuvlm1G_03E" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/Xuvlm1G_03E/hqdefault.jpg" alt="The Ultimate MacBook Monitor for Programming & Productivity? | LG Ultrafine 6K 32" Monitor Review" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
-</a>
-
-**[The Ultimate MacBook Monitor for Programming & Productivity? | LG Ultrafine 6K 32" Monitor Review](https://www.youtube.com/watch?v=Xuvlm1G_03E)**  
-2026-03-22
 
 <!-- YOUTUBE-VIDEOS-END -->
 
