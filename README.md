@@ -32,6 +32,14 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-START -->
+<a href="https://www.youtube.com/watch?v=li00PXsIgpk" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.ytimg.com/vi/li00PXsIgpk/hqdefault.jpg" alt="Realistic Week in the Life as a Software Engineer | 2 Jobs & Setup Upgrades" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+</a>
+
+**[Realistic Week in the Life as a Software Engineer | 2 Jobs & Setup Upgrades](https://www.youtube.com/watch?v=li00PXsIgpk)**  
+2026-09-11
+
+
 <a href="https://www.youtube.com/watch?v=K_JSQJQBGp0" target="_blank" rel="noopener noreferrer">
   <img src="https://i.ytimg.com/vi/K_JSQJQBGp0/hqdefault.jpg" alt="Day in the Life of a Software Engineer in Paris | Traveling, Remote Work" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
@@ -46,14 +54,6 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 **[MacBook Pro Long Term Review | Day in My Life as a Software Engineer](https://www.youtube.com/watch?v=brgyL0_ABKs)**  
 2026-07-15
-
-
-<a href="https://www.youtube.com/watch?v=uiWfygB74Co" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/uiWfygB74Co/hqdefault.jpg" alt="Week in the Life as a Software Engineer | Work & Setup Upgrades" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
-</a>
-
-**[Week in the Life as a Software Engineer | Work & Setup Upgrades](https://www.youtube.com/watch?v=uiWfygB74Co)**  
-2026-05-30
 
 <!-- YOUTUBE-VIDEOS-END -->
 
