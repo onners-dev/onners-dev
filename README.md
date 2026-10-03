@@ -32,6 +32,14 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-START -->
+<a href="https://www.youtube.com/watch?v=tsoK6-o7vl8" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.ytimg.com/vi/tsoK6-o7vl8/hqdefault.jpg" alt="Salary & Expenses as a Software Engineer in 2026" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+</a>
+
+**[Salary & Expenses as a Software Engineer in 2026](https://www.youtube.com/watch?v=tsoK6-o7vl8)**  
+2026-10-02
+
+
 <a href="https://www.youtube.com/watch?v=li00PXsIgpk" target="_blank" rel="noopener noreferrer">
   <img src="https://i.ytimg.com/vi/li00PXsIgpk/hqdefault.jpg" alt="Realistic Week in the Life as a Software Engineer | 2 Jobs & Setup Upgrades" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
@@ -46,14 +54,6 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 **[Day in the Life of a Software Engineer in Paris | Traveling, Remote Work](https://www.youtube.com/watch?v=K_JSQJQBGp0)**  
 2026-08-07
-
-
-<a href="https://www.youtube.com/watch?v=brgyL0_ABKs" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/brgyL0_ABKs/hqdefault.jpg" alt="MacBook Pro Long Term Review | Day in My Life as a Software Engineer" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
-</a>
-
-**[MacBook Pro Long Term Review | Day in My Life as a Software Engineer](https://www.youtube.com/watch?v=brgyL0_ABKs)**  
-2026-07-15
 
 <!-- YOUTUBE-VIDEOS-END -->
 
