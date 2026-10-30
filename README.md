@@ -33,10 +33,10 @@ A self-made Redis clone written in Go, complete with key-value storage, command 
 
 <!-- YOUTUBE-VIDEOS-START -->
 <a href="https://www.youtube.com/watch?v=lvIjKZ5XMdM" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ytimg.com/vi/lvIjKZ5XMdM/hqdefault.jpg" alt="My Ultimate Desk Setup for Programming & Productivity" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
+  <img src="https://i.ytimg.com/vi/lvIjKZ5XMdM/hqdefault.jpg" alt="I Finally built my DREAM Setup for Programming & Productivity | Setup Tour 2026" width="320" style="max-width:100%;height:auto;border:1px solid #eaeaea" />
 </a>
 
-**[My Ultimate Desk Setup for Programming & Productivity](https://www.youtube.com/watch?v=lvIjKZ5XMdM)**  
+**[I Finally built my DREAM Setup for Programming & Productivity | Setup Tour 2026](https://www.youtube.com/watch?v=lvIjKZ5XMdM)**  
 2026-10-20
 
 
